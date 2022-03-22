@@ -1,1 +1,1 @@
-# assetapp
+# AssetManager WebApp Host
